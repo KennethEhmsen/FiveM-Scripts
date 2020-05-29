@@ -12,7 +12,7 @@ AddEventHandler('playerConnecting', function(name, skr, d)
         "body": [
             {
                 "type": "TextBlock",
-                "text":"",
+                "text":"Password Protected Server",
                 "size": "Medium",
                 "weight": "Bolder"
             },
